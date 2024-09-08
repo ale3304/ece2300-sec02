@@ -2,6 +2,8 @@
 // PairTripleDetector
 //========================================================================
 
+//test comment 
+
 module PairTripleDetector
 (
   input  wire in0,
